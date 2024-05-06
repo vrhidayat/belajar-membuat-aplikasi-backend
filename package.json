@@ -10,7 +10,7 @@
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "fadlinurhidayat",
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^21.3.9",
